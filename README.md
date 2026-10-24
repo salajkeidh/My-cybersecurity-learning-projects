@@ -1,2 +1,2 @@
-# My-cybersecurity-learning-projects
+# cybersecurity-learning
 My cybersecurity learning projects

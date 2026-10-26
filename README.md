@@ -9,3 +9,5 @@ This repository contains my learning notes and projects.
 - Learn Python programming.
 - Understand computer networks.
 - Practice cybersecurity in safe labs.
+## My GitHub Practice
+Today I learned how to edit a file on GitHub.
